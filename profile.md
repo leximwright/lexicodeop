@@ -1,9 +1,6 @@
 <p align="center">
-    <img src="https://github.com/leximwright/lexicodeop/blob/images/Lexi-Profile-Codeop.jpeg" alt="Logo" width=72 height=72>
+    <img src="https://github.com/leximwright/lexicodeop/blob/main/Lexi-Profile-Codeop.jpeg" alt="Logo" width=72 height=72>
   </a>
-
-
-
 
   <h3 align="center">Logo</h3>
 
