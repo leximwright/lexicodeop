@@ -12,25 +12,23 @@
 ## Table of contents
 
 - [Why am I taking this class?](#take-class)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Thanks](#thanks)
+- [Why I hope to visit Barcelona?](#barcelona)
+- [Professional Background](#my-background)
+- [Previous coding experience](#previous-experience)
+- [Fun Facts](#fun-facts)
 
 
 ## Why am I taking this class? 
-
-Some text
 
 - Instruction 1
 - Instruction 2
 - Instruction 3
 
-## Status
+## Why I hope to visit Barcelona?
 
 Here goes all the budgets
 
-## What's included
+## Professional Background
 
 Some text
 
@@ -45,10 +43,10 @@ folder1/
         └── file4
 ```
 
-## Bugs and feature requests
+## Previous coding experience
 
 Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
 
-## Thanks
+## Fun Facts
 
 Thank you! :) 
