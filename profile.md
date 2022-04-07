@@ -11,42 +11,40 @@
 
 ## Table of contents
 
-- [Why am I taking this class?](#why-am-I-taking-this-class?)
+- [Why am I taking this class?](#Why-am-I-taking-this-class?)
 - [Why I hope to visit Barcelona?](#barcelona)
 - [Professional Background](#my-background)
-- [Previous coding experience](#previous-experience)
+- [Previous coding experience](#Previous-experience)
 - [Fun Facts](#fun-facts)
 
 
 ## Why am I taking this class? 
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- To learn to code!
+- To advance my career!
+- To challenge myself!
 
 ## Why I hope to visit Barcelona?
 
-Here goes all the budgets
+Barcelona is home to some of the best beaches in Europe and they keep a very high standard for large communal areas that are always clean. In fact, National Geographic called Barcelona the best urban beach and the third best beach in the world!
 
 ## Professional Background
 
-Some text
-
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
+```
+Benevity
+└── Press and Post
+		├── Freelancing
+    			├── CANA Construction
+	 			├── ATB Financial
+	  			├── IMLocum
 ```
 
 ## Previous coding experience
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
+Very minimal, mostly Python and HTML from Neopets days.
 
 ## Fun Facts
 
-Thank you! :) 
+- I finished my Master of Digital Media degree at Ryerson University in Toronto last year!
+- I have a dating blog
+- I have a one-year-old French bulldog named Opie! 
