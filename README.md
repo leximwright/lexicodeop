@@ -1,1 +1,3 @@
 # lexicodeop
+$ githelp <command>
+
