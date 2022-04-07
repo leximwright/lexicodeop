@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/leximwright/lexicodeop/blob/main/Lexi-Profile-Codeop.jpeg" alt="Lexi Marie Wright" width=100 height=300>
+    <img src="https://github.com/leximwright/lexicodeop/blob/main/Lexi-Profile-Codeop.jpeg" alt="Lexi Marie Wright" width=1080 height=1080>
   </a>
 
   <h3 align="center">Logo</h3>
