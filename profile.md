@@ -1,136 +1,83 @@
-<!DOCTYPE html>
-	<html>
-	<link rel="stylesheet" type="text/css" href="Among-Us.css">
-	<link href="https://fonts.googleapis.com/css2?family=Chilanka&display=swap" rel="stylesheet">
-	<head>
-		<title>Among Us</title>
-	</head>
-		<body>
-		<!--Header-->
-		<div class="topnav">
-  			<a class="active" href="index.html">Home</a>
- 			<a href="AU_Crew Page.html">Crew</a>
-  			<a href="AU_Rules.html">Rules</a>
-  			<a href="AU_MapPage.html">Maps</a>
-  			<a href="Among Us Store.html">Shop</a>
-		</div>
-	</br>
-			<!--title-->
-			<h1>There is an <em> IMPOSTER </em> among us</h1>
-			
-			<img id="firstpicture" src= "images/Start-of-game.png" alt="game-start"/> </a>
+<p align="center">
+  <a href="https://example.com/">
+    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+  </a>
 
-			<!--button-->
-			<center><input type="button" value="Welcome to the Crew" class="homepageButton" id="buttonOne" onmouseover="this.style.backgroundColor='pink'" onmouseleave="this.style.backgroundColor='#f44336'"></center>
-				
-			<!--subhead-->
-			<h2>Mission: </h2>
-			<!--List-->
-			<center>
-			<div id="mission">
-				<ol>
-					<li> Complete assigned crew tasks </li>
-					<li> Survive until all imposters have been ejected</li>
-					<li> Keep an eye on your other crewmates </li>
-				</ol>
-			</div>
-			</center>
-			</br>
-			<!--button-->
-			<center><a href="AU_Rules.html"><input type="button" value="Read Full Rules" class="homepageButton" id="buttonTwo" onmouseover="this.style.backgroundColor='pink'" onmouseleave="this.style.backgroundColor='#f44336'"></a></center>
+  <h3 align="center">Logo</h3>
 
-			<!--Subhead-->
-			<h2>Maps & Tasks:</h2>
+  <p align="center">
+    Short description
+    <br>
+    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    ·
+    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+  </p>
+</p>
 
-			<div>
-			<table id="mapsTasks">
-				<tr>
-					<th><a href="AU_Skeld.html" class="link">The Skeld</a></th>
-					<th><a href="AU_MiraHQ.html" class="link">Mira HQ</a></th>
-					<th><a href="AU_Polus.html" class="link">Polus</a></th>
-				</tr>
-				<tr>
-					<td><a href="AU_Skeld.html"><img class="table-img" src="images/The Skeld.png"/></a>
-					</br>
-						<details>
-							<summary><strong>Skeld Task List</strong></summary>
-	  							<div>
-	  								<ul>
-										<li>SWIPE CARD</li>
-										<li>CHART COURSE</li>
-										<li>EMPTY GARBAGE</li>
-										<li>UPLOAD DATA</li>
-										<li>DIVERT POWER</li>
-										<li>CALIBRATE DISTRIBUTOR</li>
-										<li>CLEAN O2 FILTER</li>
-										<li>FIX WIRING</li>
-										<li>ALIGN ENGINE OUTPUT</li>
-										<li>INSPECT SAMPLE</li>
-										<li>SUBMIT SCAN </li>
-									</ul>
-								</div>
-						</details>
-					</td>
-					<td><img class="table-img" src= "images/Mira HQ.png"/>
-					</br>
-						<details>
-							<summary><strong>Mira HQ Task List</strong></summary>
-	  							<div>
-	  								<ul>
-										<li> MEASURE WEATHER</li>
-										<li>BUY BEVERAGE</li>
-										<li>ENTER ID CODE</li>
-										<li>SORT SAMPLES</li>
-										<li>WATER PLANTS </li>
-									</ul>
-								</div>
-						</details>
-					</td>
-					<td><img class="table-img" src= "images/Polus.png"/>
-					</br>
-						<details>
-							<summary><strong>Polus Task List</strong></summary>
-	  							<div>
-	  								<ul>
-										<li> SCAN BOARDING PASS</li>
-										<li>SWIPE CARD</li>
-										<li>INSERT KEYS</li>
-										<li>REPLACE WATER JUG</li>
-										<li>REPAIR DRILL</li>
-										<li>RECORD TEMPERATURE</li>
-										<li>REBOOT WIFI</li>
-										<li>CLEAR ASTEROIDS</li>
-										<li>FILL CANISTERS</li>
-										<li>STORE ARTIFACTS</li>
-										<li>OPEN WATERWAYS</li>
-										<li>ALIGN TELESCOPE</li>
-									</ul>
-								</div>
-						</details>
-					</td>
-				</tr>
-			</table>
-		</div>
-			</br>
-			<!--subhead-->
-			<h2>The People Who Made Us</h2>
 
-			<center><img src="images/Innersloth.png" id="innersloth" alt="innersloth" href="http://www.innersloth.com/gameAmongUs.php"/> </a></center>
+## Table of contents
 
-			<center><div id="developer"><p> Join your crewmates in a multiplayer game of teamwork and betrayal! </p>
-			<p>Play online or over local wifi with 4-10 players as you attempt to hold your spaceship together and return back to civilization. But beware...as there may be an alien impostor aboard!</p>
-			<p>One crewmate has been replaced by a parasitic shapeshifter. Their goal is to eliminate the rest of the crew before the ship reaches home. The Impostor will sabotage the ship, sneak through vents, deceive, and frame others to remain anonymous and kill off the crew.</p>
-			<p>While everyone is fixing up the ship, no one can talk to maintain anonymity. Once a body is reported, the surviving crew will openly debate who they think The Impostor is. The Impostor's goal is to pretend that they are a member of the crew. If The Impostor is not voted off, everyone goes back to maintaining the ship until another body is found. If The Impostor is voted off, the crew wins!</p></div></center>
-			</br>
-			<center><iframe width="560" height="315" src="https://www.youtube.com/embed/NSJ4cESNQfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+- [Quick start](#quick-start)
+- [Status](#status)
+- [What's included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Contributing](#contributing)
+- [Creators](#creators)
+- [Thanks](#thanks)
+- [Copyright and license](#copyright-and-license)
 
-			<!--subhead-->
-			<h2>The Political Impact</h2>
 
-			<center><div id="political"><p> Among us has taken over the political arena in the last six months and the world is better for it. Watch the full 2 hour match below! </p></div></center>
-			<center><iframe width="560" height="315" src="https://www.youtube.com/embed/AG774ZfGt4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-		</br>
-			<center><img src="images/gif/crewmate.gif"></center>
-			
-		</body>
-	</html>
+## Quick start
+
+Some text
+
+- Instruction 1
+- Instruction 2
+- Instruction 3
+
+## Status
+
+Here goes all the budgets
+
+## What's included
+
+Some text
+
+```text
+folder1/
+└── folder2/
+    ├── folder3/
+    │   ├── file1
+    │   └── file2
+    └── folder4/
+        ├── file3
+        └── file4
+```
+
+## Bugs and feature requests
+
+Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
+
+## Contributing
+
+Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
+
+Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+
+## Creators
+
+**Creator 1**
+
+- <https://github.com/usernamecreator1>
+
+## Thanks
+
+Some Text
+
+## Copyright and license
+
+Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+
+Enjoy :metal:
