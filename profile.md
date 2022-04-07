@@ -11,7 +11,7 @@
 
 ## Table of contents
 
-- [Why am I taking this class?](#take-class)
+- [Why am I taking this class?](#why-am-I-taking-this-class?)
 - [Why I hope to visit Barcelona?](#barcelona)
 - [Professional Background](#my-background)
 - [Previous coding experience](#previous-experience)
