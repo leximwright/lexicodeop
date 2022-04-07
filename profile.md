@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="https://github.com/leximwright/lexicodeop/blob/main/Lexi-Profile-Codeop.jpeg" alt="Lexi Marie Wright" width=1080 height=1080>
+    <img src="https://github.com/leximwright/lexicodeop/blob/main/Lexi-Profile-Codeop.jpeg" alt="Lexi Marie Wright" width=400 height=400>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Lexi Marie Wright</h3>
 
   <p align="center">
-    Short description
+ Code Op Student 
   </p>
 </p>
 
