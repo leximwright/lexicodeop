@@ -1,163 +1,169 @@
 /*------------------
 1)
-Finish creating the object below.
-Add three more keys and values!
+In the loop below, fix the
+statement inside the body of the
+do loop so that the console 
+prints the numbers from 0-10.
 ------------------*/
-const person = {
-  name: "Sofia",
-  age: 20
-}
+let count =1;
 
-console.log(person);
+do {
+  console.log(10);
+  count++;
+}
+while (count <= 10);
+
+
+for (var input = 1; input <= 10; input++) {
+  console.log(input);
+  }
 
 /*------------------
 2)
-Access the name value from
-the person object.
-
-Hint: you may use either dot notation or
-bracket notation. 
+Create a loop that counts
+up to 100.
 ------------------*/
 
-// console.log("The person's name is:", ???)
+var countingUp = 1;
+var i = 0;
+
+function count() {
+
+    i += (1 * countingUp);
+
+    if (i == 100 || i == 0)
+    {
+        countingUp *= -1;
+    }
 
 /*------------------
 3)
-Update the person's name to
-"Marco". Don"t change the original
-object– do an update by reassigning
-the value. If you do this correctly,
-the printed statement will be true.
+Create a loop that counts
+down from 100.
 ------------------*/
 
-
-// console.log("The person"s name has been updated:", (person.name === "Marco"));
 
 /*------------------
 4)
-Fix the statement so that it prints
-what is expected!
+Add a console.log statement
+in the body of the loop below
+so that it prints the numbers
+from zero to four.
 ------------------*/
 
-const book = {
-  isbn: "9781593275846",
-  title: "Eloquent JavaScript, Second Edition",
-  subtitle: "A Modern Introduction to Programming",
-  author: "Marijn Haverbeke",
-  published: "2014-12-14T00:00:00.000Z",
-  publisher: "No Starch Press",
-  pages: 472,
-  description: "JavaScript lies at the heart of almost every modern web application, from social apps to the newest browser-based games. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.",
-  website: "http://eloquentjavascript.net/"
-};
+// const start = 5;
+// const end = 0;
 
-console.log("The book " + book + " was written by " + author + " and is " + pages + " pages.");
+// while (start > end) {
+//   end++;
+// }
+
 
 /*------------------
 5)
-Time to learn something new! There"s a new way of
-writing a string– it is called a template literal. 
-You can learn more about it here:
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-
-1) Encapsulate the entire string in backticks: ``
-2) Anytime you want to add JavaScript (or a variable name),
-encapsulate that part in a dollar sign and brackets: ${}
-3) Everything else is assumed to be a string!
-
-Finish filling out the statement below. 
-From now, on we will be switching between template literals
-and quotations for console.logs.
+Add a JavaScript expression
+inside the ${} so that it prints
+the difference between the capacity
+and the count of people.
 ------------------*/
 
-// console.log(`The book ${book.title} was written by ${} and is ${} pages.`);
+// const people = 1;
+// const capacity = 12;
+
+// for (let people = 1; people <= capacity; people++) {
+//   console.log(`There is room for ${} more guests in the building`);
+// }
+
 
 /*------------------
 6)
-Fix the statement so that it prints
-what is expected! You may use dot notation
-or bracket notation– look back at the slides
-if you forgot how to access values from 
-nested objects.
+Add all EVEN numbers between 0 and 50.
+Print output in console.log at the end.
+
+Hint: increase your count by two each
+time you iterate!
 ------------------*/
 
-let user = {
-  id: 101,
-  email: "sofia@dev.com",
-  personalInfo: {
-      name: "Sofia",
-      address: {
-          line1: "Carrer de CodeOp",
-          line2: "42",
-          city: "Barcelona",
-          country: "Spain"
-      }
-  }
-}
-
-// console.log(`${name} lives at ${line1} ${line2}, ${city}, ${country}.`);
 
 
 /*------------------
 7)
-Update the user's email and address
-so that the console.log statement
-prints true!
+Now, create a for loop that prints
+ALL numbers between 0 and 50
+to the console.
 
-The new email should be "sofia@prod.com"
-and the new city should be "Madrid".
+Add an if/else statement within the
+body of the loop. If the number (x) is 
+even, print `The number ${x} is even`.
+If the number (x) is odd, print
+`The number ${x} is odd`.
 ------------------*/
 
-// console.log("The person's name has been updated:", (user.email === "sofia@prod.com") && (user.personalInfo.address.city === "Madrid"));
 
 /*------------------
 8)
-Create a new object from scratch.
-Name this variable "animal".
-Then, choose an animal, and describe it–
-include things like color, type,
-food, etc. Make at least one nested object.
+Let's try something new. 
+
+To select a character in a string,
+use "charAt()", and insert the number
+you want to access inside the parentheses.
+For example: "Sofia".charAt(0) is "S"
+and "Sofia".charAt(2) is "f"
+
+Using ".toUpperCase" converts a letter to
+uppercase.
+
+Make ONE change in the code below so
+that every other letter is uppercase.
 ------------------*/
 
-// console.log(`The data type of ${animal} is a ${typeof animal}`);
+// const sentence = "i am shouting";
+// const numberOfChars = 12;
+// let result = "";
+// let i = 0;
+
+// while (i <= numberOfChars) {
+//   let letter = sentence.charAt(0);
+//   if (i % 2 === 0) {
+//     letter = letter.toUpperCase();
+//   }
+//   result += letter;
+//   i++;
+// }
+
+// console.log(result);
 
 
 /*------------------
 9)
-Update at least one value
-in your object. Write your own
-console.log statement to test this
-(look at questions 3 or 6 for an idea).
+Write a program that uses console.log to
+print all the numbers from 1 to 100.
+
+Now, for all numbers divisible by 3,
+print "Fizz" instead of the number.
+For numbers divisible by 5,
+print "Buzz" instead.
+For numbers divisible by BOTH 5 & 3, 
+print "FizzBuzz".
+
+This is a very common interview question.
+Good luck!
 ------------------*/
 
-// console.log(`The data type of ${animal} is a ${typeof animal}`);
 
 
 /*------------------
 10)
-There are three bugs in the object
-below. Find them and fix them!
+Create the triangle below by writing
+a loop that makes five calls to console.log.
+
+*
+**
+***
+****
+*****
 ------------------*/
 
-// let user2 = {
-//   id: 102,
-//   email: "pedro@dev.com"
-//   personalInfo: {
-//       name: Pedro,
-//       address: {
-//           line1: "Carrer de CodeOp",
-//           line2: "42",
-//           city; "Barcelona",
-//           country: "Spain"
-//       }
-//   }
-// }
-
-/*------------------
-11)
-Go back through all of your previous
-code. Comment out every line where you
-used either dot notation or bracket notation, 
-and then rewrite that line using the opposite.
-Make sure your code still works!
-------------------*/
+//Making A Triangle
+{for (var result = "*"; result.length <=5; result = result + "*")
+console.log(result);}
